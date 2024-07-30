@@ -86,6 +86,10 @@ main {
 .arte5{
     width: 35%;
 }
+
+.texto_parrafo{
+    align-items: center;
+}
 /*
 footer {
 
